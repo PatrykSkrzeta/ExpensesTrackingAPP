@@ -1,4 +1,4 @@
-# EXPENSES TRACKING APP
+# INCOME TRACKING APP
 ## INTRO
 This app is made for tracking expenses and income. 
 1. You can see your expenses in the Dashboard page
