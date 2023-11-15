@@ -7,5 +7,5 @@ This app is made for tracking expenses and income.
 4. You can see clearly all of these datas not only on displayed charts, but in table by clicking that button in the left side of nav
 ## INSTALLATION
 pip install flask
-pip install flask-form
+pip install flaskwtf
 pip install flask-sqlalchemy
